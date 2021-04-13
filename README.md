@@ -5,7 +5,7 @@
 - Initialize index.html to live server 👍
 - Check if the permitions in your brownser are active about the webcam
 
-#Stacks
+# Stacks
 - JavaScript
 - Node.js
 - HTML
